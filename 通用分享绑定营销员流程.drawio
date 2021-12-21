@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T02:10:36.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="bJQ6Ha37mlplexdd679H" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T07:05:57.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="pZ-E8Q4-09Er6nYE9Io-" version="16.0.0" type="github">
   <diagram id="wC88eYNIXv0LtTPiEgNa" name="第 1 页">
     <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4t7PoatlLB5mb-gcXCm-16" value="是否有发起人shareId" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="P4t7PoatlLB5mb-gcXCm-16" value="是否有场景shareId" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="212.5" width="131.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P4t7PoatlLB5mb-gcXCm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P4t7PoatlLB5mb-gcXCm-20" target="P4t7PoatlLB5mb-gcXCm-23" edge="1">
